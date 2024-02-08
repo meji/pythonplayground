@@ -1,0 +1,4 @@
+# Ignore hidden files and directories on macOS
+.DS_Store
+.AppleDouble
+.LSOverride
